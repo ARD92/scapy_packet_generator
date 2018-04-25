@@ -1,0 +1,11 @@
+{
+	"srcmac":"fe:01:02:03:04:07",
+	"dstmac":"aa:01:02:03:04:09",
+	"srcip":"10.4.0.1",
+	"dstip":"10.144.0.7",
+	"intf":"virbr0",
+	"flow":"1",
+	"trns":"ICMP",
+	"loop":"10",
+	"payload":"juniper"
+}
