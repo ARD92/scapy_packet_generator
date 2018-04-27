@@ -1,4 +1,4 @@
-Generate traffic using scapy and Tcpreplay 
+Generate traffic using scapy 
 
 install scapy 
 
