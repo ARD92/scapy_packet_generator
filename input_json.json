@@ -4,8 +4,9 @@
 	"srcip":"10.4.0.1",
 	"dstip":"10.144.0.7",
 	"intf":"virbr0",
-	"flow":"1",
-	"trns":"ICMP",
-	"loop":"10",
-	"payload":"juniper"
+	"flow":"100",
+	"trns":"TCP",
+	"loop":"100000",
+	"payload":"juniper",
+	"raw_hex_load":"raw_04500005574af00004011edd10505050507070707ffee12b500410000080000000003e8002c6bf52816f02c6bf5508cf0080045000023000100003f01673e0a0400010a90000708003cbb000000006a756e69706572"
 }
